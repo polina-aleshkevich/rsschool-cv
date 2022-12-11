@@ -12,10 +12,10 @@
 *I started my development journey with courses. Subsequently, I worked at Enaavte as a solution developer. My job was to develop ERP systems on the D365.
 Now I'm doing an in-depth study of Javascript and frameworks.*
 
-I consider my strengths to be:    
-+ constant learning something new and improving professional skills          
-+ responsibility          
-+ flexibility         
+I consider my strengths to be:
++ constant learning something new and improving professional skills
++ responsibility
++ flexibility      
 + ability to find solutions to non-standard situations
 ***
 ## **Skills:**
@@ -44,9 +44,9 @@ function{color:blue} findLongestWord(text) {
     return (word);
 }
 const longestWord = findLongestWord("Lorem ipsum dolor sit 
-amet, consectetur adipiscing elit. Praesent 
-rutrum, quam sit amet semper tempus, velit 
-nibh pellentesque dui, nec consectetur 
+amet, consectetur adipiscing elit. Praesent
+rutrum, quam sit amet semper tempus, velit
+nibh pellentesque dui, nec consectetur
 erat orci et libero. ");
 console.log(longestWord);
 ```
@@ -62,4 +62,4 @@ console.log(longestWord);
 ***
 ## **Languages:**
 * **English** - B1
-* **Russian** - native 
+* **Russian** - native

@@ -1,5 +1,5 @@
 # Aleshkevich Polina
-
+<img src="photo_2021-02-23_18-11-55.jpg" alt="drawing" width="200"/>
 
 ## **Contact information:**
 * **Phone:** +375293091162
